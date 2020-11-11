@@ -1,0 +1,9 @@
+integraty:
+  file:
+    input-dir: D:\projects\spring-integration-samples\data-flow-learn\file-demo\src\main\resources\input
+    output-dir: D:\projects\spring-integration-samples\data-flow-learn\file-demo\src\main\resources\output
+    file-pattern: "*.txt"
+logging:
+  level:
+    win:
+      hgfdodo: debug

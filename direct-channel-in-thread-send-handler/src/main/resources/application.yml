@@ -1,0 +1,4 @@
+logging:
+  level:
+    win:
+      hgfdodo: debug

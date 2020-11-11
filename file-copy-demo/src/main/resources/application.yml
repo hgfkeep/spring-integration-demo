@@ -1,0 +1,13 @@
+
+integraty:
+  file:
+    input-dir: D:\projects\data-flow-learn\file-copy-demo\src\main\resources\input
+    output-dir: D:\projects\data-flow-learn\file-copy-demo\src\main\resources\output
+    file-pattern: "*.txt"
+logging:
+  level:
+    win:
+      hgfdodo: debug
+spring:
+  profiles:
+    active: string
